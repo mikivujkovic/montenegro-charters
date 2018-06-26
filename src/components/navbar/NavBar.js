@@ -1,6 +1,5 @@
 import React from "react";
-import AppBar from "material-ui/AppBar";
 
-const NavBar = () => <AppBar title="Montenegro Charters" />;
+const NavBar = () => <div>Navbar</div>;
 
 export default NavBar;
